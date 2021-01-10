@@ -4,4 +4,4 @@ This is a collection of JavaScript demos based on my YouTube videos on my channe
 
 ## My JavaScript Demos
 
-* [How to style `console.log()` output with CSS]()
+- [How to style `console.log()` output with CSS](https://codewithpalash.github.io/javascript-demos/demos/style-console-log/)
