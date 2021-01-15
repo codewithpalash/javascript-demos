@@ -5,3 +5,8 @@ This is a collection of JavaScript demos based on my YouTube videos on my channe
 ## My JavaScript Demos
 
 - [How to style `console.log()` output with CSS](https://codewithpalash.github.io/javascript-demos/demos/style-console-log/)
+- [How to style `console.log()` output with CSS - Part 2](https://codewithpalash.github.io/javascript-demos/demos/style-console-log-pt2/)
+
+I hope these demos will help you. If you like this repo and find it useful, please consider ★ starring it.
+
+Have a great day!
